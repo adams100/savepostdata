@@ -7,6 +7,10 @@
 
 ![Send Post Data](Images/post.png)
 
+<img src='.Images/post.png'
+  style='border: 4px solid #f00; margin: 20px; border-radius: 50px;'
+>
+
 
 ### Later, query the database for the data!
 
